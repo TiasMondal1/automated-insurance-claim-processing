@@ -1,0 +1,47 @@
+{
+  "claim_id": "CLM-2024-1000",
+  "policy_number": "POL-10001",
+  "claimant_name": "Sarah Jones",
+  "claimant_dob": "1989-02-19",
+  "claimant_id": "MEM-15900",
+  "claim_date": "2025-11-21T04:17:59.871538",
+  "service_start_date": "2025-09-25T04:17:59.871512",
+  "service_end_date": "2025-09-25T04:17:59.871512",
+  "primary_diagnosis": "F41.9",
+  "secondary_diagnoses": [],
+  "claim_items": [
+    {
+      "procedure_code": "99213",
+      "procedure_description": "Office visit, established patient, level 3",
+      "diagnosis_code": "F41.9",
+      "service_date": "2025-09-25T04:17:59.871512",
+      "provider_name": "Dr. Michael Lee",
+      "billed_amount": 300,
+      "units": 2
+    },
+    {
+      "procedure_code": "80053",
+      "procedure_description": "Comprehensive metabolic panel",
+      "diagnosis_code": "F41.9",
+      "service_date": "2025-09-25T04:17:59.871512",
+      "provider_name": "Dr. Michael Anderson",
+      "billed_amount": 85,
+      "units": 1
+    },
+    {
+      "procedure_code": "85025",
+      "procedure_description": "Complete blood count",
+      "diagnosis_code": "F41.9",
+      "service_date": "2025-09-25T04:17:59.871512",
+      "provider_name": "Dr. Michael Thompson",
+      "billed_amount": 45,
+      "units": 1
+    }
+  ],
+  "total_billed_amount": 430,
+  "provider_name": "Dr. Michael Lee",
+  "provider_npi": "6649714960",
+  "facility_name": "Regional Hospital",
+  "status": "pending",
+  "metadata": {}
+}

@@ -1,0 +1,47 @@
+{
+  "claim_id": "CLM-2024-1004",
+  "policy_number": "POL-10000",
+  "claimant_name": "Sarah Rodriguez",
+  "claimant_dob": "1990-05-14",
+  "claimant_id": "MEM-76637",
+  "claim_date": "2025-11-21T04:17:59.872014",
+  "service_start_date": "2025-11-05T04:17:59.872001",
+  "service_end_date": "2025-11-05T04:17:59.872001",
+  "primary_diagnosis": "M79.3",
+  "secondary_diagnoses": [],
+  "claim_items": [
+    {
+      "procedure_code": "99215",
+      "procedure_description": "Office visit, established patient, level 5",
+      "diagnosis_code": "M79.3",
+      "service_date": "2025-11-05T04:17:59.872001",
+      "provider_name": "Dr. David Taylor",
+      "billed_amount": 500,
+      "units": 2
+    },
+    {
+      "procedure_code": "99215",
+      "procedure_description": "Office visit, established patient, level 5",
+      "diagnosis_code": "M79.3",
+      "service_date": "2025-11-05T04:17:59.872001",
+      "provider_name": "Dr. David Anderson",
+      "billed_amount": 250,
+      "units": 1
+    },
+    {
+      "procedure_code": "80053",
+      "procedure_description": "Comprehensive metabolic panel",
+      "diagnosis_code": "M79.3",
+      "service_date": "2025-11-05T04:17:59.872001",
+      "provider_name": "Dr. Jennifer Thompson",
+      "billed_amount": 170,
+      "units": 2
+    }
+  ],
+  "total_billed_amount": 920,
+  "provider_name": "Dr. David Taylor",
+  "provider_npi": "5573910118",
+  "facility_name": "Regional Hospital",
+  "status": "pending",
+  "metadata": {}
+}

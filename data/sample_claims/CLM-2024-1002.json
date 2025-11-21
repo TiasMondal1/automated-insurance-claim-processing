@@ -1,0 +1,38 @@
+{
+  "claim_id": "CLM-2024-1002",
+  "policy_number": "POL-10002",
+  "claimant_name": "Robert Martinez",
+  "claimant_dob": "1966-06-02",
+  "claimant_id": "MEM-13159",
+  "claim_date": "2025-11-21T04:17:59.871799",
+  "service_start_date": "2025-10-07T04:17:59.871786",
+  "service_end_date": "2025-10-07T04:17:59.871786",
+  "primary_diagnosis": "F41.9",
+  "secondary_diagnoses": [],
+  "claim_items": [
+    {
+      "procedure_code": "80053",
+      "procedure_description": "Comprehensive metabolic panel",
+      "diagnosis_code": "F41.9",
+      "service_date": "2025-10-07T04:17:59.871786",
+      "provider_name": "Dr. Emily Lee",
+      "billed_amount": 170,
+      "units": 2
+    },
+    {
+      "procedure_code": "99215",
+      "procedure_description": "Office visit, established patient, level 5",
+      "diagnosis_code": "F41.9",
+      "service_date": "2025-10-07T04:17:59.871786",
+      "provider_name": "Dr. Emily Anderson",
+      "billed_amount": 500,
+      "units": 2
+    }
+  ],
+  "total_billed_amount": 670,
+  "provider_name": "Dr. Emily Lee",
+  "provider_npi": "9438768090",
+  "facility_name": "Regional Hospital",
+  "status": "pending",
+  "metadata": {}
+}

@@ -1,0 +1,31 @@
+MEDICAL REPORT
+
+Patient: Sarah Jones
+Date of Service: 2025-10-29
+Provider: Dr. Sarah Thompson
+
+CHIEF COMPLAINT:
+Patient presents with symptoms related to diagnosis code J06.9.
+
+HISTORY OF PRESENT ILLNESS:
+Patient reports onset of symptoms approximately 14 days ago. 
+Symptoms have been gradually worsening.
+
+PHYSICAL EXAMINATION:
+Vital signs stable. Examination findings consistent with diagnosis.
+
+ASSESSMENT:
+Primary diagnosis: J06.9
+Condition is stable.
+
+PLAN:
+1. Continue current treatment plan
+2. Follow-up in 2 weeks
+3. Prescribed medication
+
+MEDICAL NECESSITY:
+The services provided were medically necessary for the diagnosis and treatment of the patient's condition.
+
+Provider Signature: Dr. Sarah Thompson
+NPI: 8607624657
+Date: 2025-10-29

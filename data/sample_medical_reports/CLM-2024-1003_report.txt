@@ -1,0 +1,31 @@
+MEDICAL REPORT
+
+Patient: Sarah Rodriguez
+Date of Service: 2025-10-27
+Provider: Dr. David Anderson
+
+CHIEF COMPLAINT:
+Patient presents with symptoms related to diagnosis code E11.9.
+
+HISTORY OF PRESENT ILLNESS:
+Patient reports onset of symptoms approximately 2 days ago. 
+Symptoms have been improving with treatment.
+
+PHYSICAL EXAMINATION:
+Vital signs stable. Examination findings consistent with diagnosis.
+
+ASSESSMENT:
+Primary diagnosis: E11.9
+Condition requires continued monitoring.
+
+PLAN:
+1. Continue current treatment plan
+2. Return if symptoms worsen
+3. Referred to specialist
+
+MEDICAL NECESSITY:
+The services provided were medically necessary for the diagnosis and treatment of the patient's condition.
+
+Provider Signature: Dr. David Anderson
+NPI: 8948584355
+Date: 2025-10-27

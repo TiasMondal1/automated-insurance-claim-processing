@@ -1,0 +1,31 @@
+MEDICAL REPORT
+
+Patient: Sarah Jones
+Date of Service: 2025-09-25
+Provider: Dr. Michael Lee
+
+CHIEF COMPLAINT:
+Patient presents with symptoms related to diagnosis code F41.9.
+
+HISTORY OF PRESENT ILLNESS:
+Patient reports onset of symptoms approximately 13 days ago. 
+Symptoms have been stable.
+
+PHYSICAL EXAMINATION:
+Vital signs stable. Examination findings consistent with diagnosis.
+
+ASSESSMENT:
+Primary diagnosis: F41.9
+Condition requires continued monitoring.
+
+PLAN:
+1. Continue current treatment plan
+2. Return if symptoms worsen
+3. Ordered diagnostic tests
+
+MEDICAL NECESSITY:
+The services provided were medically necessary for the diagnosis and treatment of the patient's condition.
+
+Provider Signature: Dr. Michael Lee
+NPI: 6649714960
+Date: 2025-09-25

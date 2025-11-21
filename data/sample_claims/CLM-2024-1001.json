@@ -1,0 +1,47 @@
+{
+  "claim_id": "CLM-2024-1001",
+  "policy_number": "POL-10001",
+  "claimant_name": "Sarah Jones",
+  "claimant_dob": "1958-01-27",
+  "claimant_id": "MEM-93652",
+  "claim_date": "2025-11-21T04:17:59.871672",
+  "service_start_date": "2025-10-29T04:17:59.871655",
+  "service_end_date": "2025-10-29T04:17:59.871655",
+  "primary_diagnosis": "J06.9",
+  "secondary_diagnoses": [],
+  "claim_items": [
+    {
+      "procedure_code": "93000",
+      "procedure_description": "Electrocardiogram",
+      "diagnosis_code": "J06.9",
+      "service_date": "2025-10-29T04:17:59.871655",
+      "provider_name": "Dr. Sarah Thompson",
+      "billed_amount": 190,
+      "units": 2
+    },
+    {
+      "procedure_code": "85025",
+      "procedure_description": "Complete blood count",
+      "diagnosis_code": "J06.9",
+      "service_date": "2025-10-29T04:17:59.871655",
+      "provider_name": "Dr. James Moore",
+      "billed_amount": 45,
+      "units": 1
+    },
+    {
+      "procedure_code": "99215",
+      "procedure_description": "Office visit, established patient, level 5",
+      "diagnosis_code": "J06.9",
+      "service_date": "2025-10-29T04:17:59.871655",
+      "provider_name": "Dr. Jennifer Wilson",
+      "billed_amount": 500,
+      "units": 2
+    }
+  ],
+  "total_billed_amount": 735,
+  "provider_name": "Dr. Sarah Thompson",
+  "provider_npi": "8607624657",
+  "facility_name": "Regional Hospital",
+  "status": "pending",
+  "metadata": {}
+}

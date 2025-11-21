@@ -1,0 +1,62 @@
+{
+  "policy_number": "POL-10001",
+  "policy_holder_name": "Sarah Jones",
+  "effective_date": "2024-11-21T04:17:59.871067",
+  "expiration_date": "2026-10-26T04:17:59.871072",
+  "annual_deductible": 500,
+  "deductible_met": 422.60080991271946,
+  "out_of_pocket_max": 8000,
+  "out_of_pocket_met": 409.8203664364012,
+  "policy_type": "EPO",
+  "network_type": "In-Network",
+  "requires_referral": false,
+  "emergency_coverage": true,
+  "coverages": [
+    {
+      "category": "outpatient",
+      "annual_limit": 50000,
+      "per_visit_limit": 5000,
+      "copay_amount": 20,
+      "coinsurance_percentage": 10,
+      "deductible_applies": true,
+      "requires_preauth": false,
+      "covered_procedures": [
+        "99213",
+        "99214",
+        "99215"
+      ]
+    },
+    {
+      "category": "inpatient",
+      "annual_limit": 100000,
+      "per_visit_limit": null,
+      "copay_amount": 0,
+      "coinsurance_percentage": 20,
+      "deductible_applies": true,
+      "requires_preauth": true,
+      "covered_procedures": []
+    },
+    {
+      "category": "emergency",
+      "annual_limit": null,
+      "per_visit_limit": null,
+      "copay_amount": 100,
+      "coinsurance_percentage": 0,
+      "deductible_applies": false,
+      "requires_preauth": false,
+      "covered_procedures": []
+    }
+  ],
+  "exclusions": [
+    {
+      "exclusion_type": "cosmetic",
+      "description": "Cosmetic procedures not medically necessary",
+      "excluded_codes": [
+        "15780",
+        "15781",
+        "15782"
+      ]
+    }
+  ],
+  "metadata": {}
+}

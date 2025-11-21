@@ -1,0 +1,31 @@
+MEDICAL REPORT
+
+Patient: Robert Martinez
+Date of Service: 2025-10-07
+Provider: Dr. Emily Lee
+
+CHIEF COMPLAINT:
+Patient presents with symptoms related to diagnosis code F41.9.
+
+HISTORY OF PRESENT ILLNESS:
+Patient reports onset of symptoms approximately 2 days ago. 
+Symptoms have been improving with treatment.
+
+PHYSICAL EXAMINATION:
+Vital signs stable. Examination findings consistent with diagnosis.
+
+ASSESSMENT:
+Primary diagnosis: F41.9
+Condition is stable.
+
+PLAN:
+1. Continue current treatment plan
+2. Follow-up as needed
+3. Ordered diagnostic tests
+
+MEDICAL NECESSITY:
+The services provided were medically necessary for the diagnosis and treatment of the patient's condition.
+
+Provider Signature: Dr. Emily Lee
+NPI: 9438768090
+Date: 2025-10-07
